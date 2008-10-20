@@ -1,0 +1,8 @@
+20. oct 2008
+
+This is a small Twitter command line client written in C++.
+
+The project files are ready to be imported into eclipse with CDT plugin. I was too lazy to write a makefile myself and so on.
+
+Usage:
+twiclipp <username> <password>
